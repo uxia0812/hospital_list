@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- logo -->
-<img src="/public/images/logo.png" width="100"/>
+<img src="/public/images/logo.png" width="70"/>
 
 ### Hospital Info Web
 
