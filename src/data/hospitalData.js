@@ -1077,3 +1077,5 @@ export const hospitalData = [
       }
     }
   ];
+
+  export default hospitalData;
